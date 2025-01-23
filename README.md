@@ -134,7 +134,3 @@ model = load_model("final_model.h5")
 predictions = model.predict(img_array)
 predicted_class = np.argmax(predictions)
 print(f"Predicted Class: {predicted_class}")
-
-
-### Prediction Results  
-![Prediction Result](predictionresult.png)
