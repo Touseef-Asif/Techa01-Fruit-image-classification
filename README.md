@@ -135,5 +135,6 @@ predictions = model.predict(img_array)
 predicted_class = np.argmax(predictions)
 print(f"Predicted Class: {predicted_class}")
 
-### Prediction Result
-![Prediction Result]()
+
+### Prediction Results  
+![Prediction Result](predictionresult.png)
