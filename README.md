@@ -107,7 +107,7 @@ Below are the accuracy and loss graphs obtained after training for 10 epochs:
 - **Validation Loss**: ~2.54  
 
 ### Accuracy and Loss Graphs  
-![Accuracy and Loss](accuracy_loss_graph.png)
+![Accuracy and Loss](fruitclassificationModelAccuracy.png)
 
 ---
 
